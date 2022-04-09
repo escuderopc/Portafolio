@@ -1,0 +1,149 @@
+body{
+        width: 100%;
+        height: 100vh;  
+        padding-top: 3rem;
+   
+    
+    }
+.text{
+    display: block;
+    text-align: center;
+    background-color: rgb(8, 8, 8);
+    color: aliceblue;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.text2{
+    display: block;
+    text-align: center;
+    font-family: 'Grape Nuts', cursive;
+    font-size: xx-large;
+    background-color: beige;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.text3{
+    display: block;
+    background-color: beige;  
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;  
+}
+.text4{
+    display: block;
+    text-align: center;
+    font-family: 'Grape Nuts', cursive;
+    font-size: xx-large;
+    background-color: rgb(8, 8, 8);
+    color: aliceblue;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.text5{
+    display: block;
+    text-align: center;
+    font-family: 'Grape Nuts', cursive;
+    font-size: xx-large;
+    background-color: beige;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.marg{
+    padding-top: 2rem;
+}
+.skills{
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: xx-large;
+
+}
+.font1{
+    color: blue;
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: xx-large;
+}
+body{
+    background-image: url("http://3.bp.blogspot.com/-dqhay3TCsZI/VCeVeK6lbiI/AAAAAAAAAEs/XvNfOPf03yA/s1600/logoo.gi");
+}
+.image-profile{
+    width: 250px;
+    height: 450px;
+}
+.name{
+    width: 560px;
+    height: 550px;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    margin-right: 1rem;
+}
+.color-bg{
+    background-color: black;
+}
+
+
+.stylebtn{
+    font-family: 'Rock Salt', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+}
+.button {
+  
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding-right: 30px;
+    padding-left: 70px;
+    position: relative;
+    background-color:rgb(0,0,0);
+    color:rgb(255,255,255);
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 1px;
+    margin-bottom: 14px;
+    text-shadow:1px 1px 0px rgba(0,0,0,0.5);
+  }
+  
+.button:hover{
+    text-decoration: none;
+    color: #fff;
+    text-shadow: none;
+  }
+  
+.button p{font-size: 18px;}
+.button span {
+    position: absolute;
+    left: 0;
+    width: 50px;
+    font-size:30px;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-right: 1px solid  rgba(0,0,0,0.15);
+    text-decoration: none;
+  }
+.button.twitter {
+    background: #00acee;
+  }
+.button.facebook {
+   background: #3b5998;
+  }
+.button.google-plus{
+    background: #db4a39;
+  }
+.button.linkedin {
+    background: #0e76a8;}
+.button.github{
+    background: #171515;
+  }
+.button.flickr{
+  background: #ff0084;
+}
+.text-center{
+  text-align: center;
+}
+.what{
+    color: #fff;
+    text-decoration: none;
+}
