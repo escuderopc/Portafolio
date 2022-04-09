@@ -32,7 +32,6 @@ body{
 .text4{
     display: block;
     text-align: center;
-    font-family: 'Grape Nuts', cursive;
     font-size: xx-large;
     background-color: rgb(8, 8, 8);
     color: aliceblue;
@@ -42,7 +41,6 @@ body{
 .text5{
     display: block;
     text-align: center;
-    font-family: 'Grape Nuts', cursive;
     font-size: xx-large;
     background-color: beige;
     padding-top: 2rem;
@@ -52,13 +50,13 @@ body{
     padding-top: 2rem;
 }
 .skills{
-    font-family: 'Rubik Wet Paint', cursive;
+    font-family: 'Grape Nuts', cursive;
     font-size: xx-large;
 
 }
 .font1{
     color: blue;
-    font-family: 'Rubik Wet Paint', cursive;
+    font-family: 'Grape Nuts', cursive;
     font-size: xx-large;
 }
 body{
