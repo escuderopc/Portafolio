@@ -16,7 +16,6 @@ body{
 .text2{
     display: block;
     text-align: center;
-    font-family: 'Grape Nuts', cursive;
     font-size: xx-large;
     background-color: beige;
     padding-top: 2rem;
@@ -56,7 +55,6 @@ body{
 }
 .font1{
     color: blue;
-    font-family: 'Grape Nuts', cursive;
     font-size: xx-large;
 }
 body{
